@@ -18,10 +18,10 @@
 3. add two eggs
 4. mix until thick. add spare egg white if needed
 
-# cook
+## cook
 
 1. boil the pasta
-2. fry off pancheta - it shrinks a lot so add more than you need
+2. fry off pancheta - it shrinks a lot so add more than you need *(remember to tip off oil)*
 3. when the spaghetti is ready, strain it off but keep the water
 4. add the spaghetti back to the hot pan
 5. add two ladels of spaghetti water
