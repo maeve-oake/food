@@ -30,7 +30,7 @@
 ## cook
 
 1. fry off the beef mince in a large pan
-2. throw a splash of red wine when it starts to brown. this should burn off. 
+2. throw a splash of red wine in when it starts to brown. this should burn off. 
 3. fry off onion, then add to pan
 4. fry off pepper, then add to pan
 5. fry off carrots, then add to pan
@@ -45,6 +45,8 @@
 let simmer for 45 mins to an hour
 
 ## cheese sauce
+
+*for best results, be under the influence*
 
 0. preheat your oven to 180 degrees for later
 1. in a small pan on low heat, melt two tablespoons of butter
