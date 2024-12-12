@@ -48,7 +48,7 @@ let simmer for 45 mins to an hour
 
 *for best results, be under the influence*
 
-0. preheat your oven to 180 degrees for later
+0. forget to preheat your oven to 180 degrees for later
 1. in a small pan on low heat, melt two tablespoons of butter
 2. add two tablespoons of flour and whisk in
 3. pour a little milk and whisk
