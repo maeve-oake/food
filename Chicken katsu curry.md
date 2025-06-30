@@ -1,7 +1,9 @@
 # Chicken katsu curry
 
+![White rice, with a chicken breast on top covered in a dark yellow katsu sauce, garnished with some grated carrot and rocket leaves](images/chicken_katsu_curry.jpg)
+
 - serves 4
-- 1hr
+- 1 hour
 
 ## ingredients
 

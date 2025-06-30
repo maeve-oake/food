@@ -1,5 +1,7 @@
 # Carbonara
 
+![Four portions of carbonara, presented with parmesan and black pepper](images/carbonara.jpg)
+
 - serves 4
 - 20 mins
 
