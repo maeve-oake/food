@@ -31,7 +31,7 @@
 6. before the egg cooks, sprinkle the grated cheese over the top
 7. now add your tortilla - press it down so the melted cheese & runny egg sticks
 8. cook the wrap for a few minutes, using a spatula to loosen and check underneath. it should be slightly browned on the bottom
-9. flip the entire pan upside down over a plate, he whole wrap should fall out cleanly in once piece!
+9. flip the entire pan upside down over a plate, the whole wrap should fall out cleanly in once piece!
 
 ## serve
 
