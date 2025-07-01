@@ -1,6 +1,6 @@
 # Egg wraps
 
-![An unrolled egg tortilla wrap with sweet chilli sauce, ham and salami, next to a tightly rolled egg tortilla wrap](images/egg_wraps.jpg)
+![An unrolled egg tortilla wrap with sweet chilli sauce, ham and mushrooms, next to a tightly rolled egg tortilla wrap](images/egg_wraps.jpg)
 
 - serves 1
 - 5 mins
