@@ -25,7 +25,7 @@
 2. add onion paste to the largest sauté pan you have with a splash of oil
 3. sauté gently until the onion goes translucent (not brown!)
 4. blend 2 tins chopped tomatoes and stir into the pan
-5. leave cooking on the lowest heat for 3-4 hours
+5. leave cooking, lid on, with the lowest heat for 3-4 hours
 
 ## prep meatballs
 
