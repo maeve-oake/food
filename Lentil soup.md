@@ -10,13 +10,16 @@
 - 1 tin green lentils
 - 2 tins chopped tomato
 - 2 onions
-- As many cloves of garlic as you want
-- Handful of basil
+- as many cloves of garlic as you want
+- handful of basil
 - 800ml vegetable stock
-- Salt & pepper
+- salt & pepper
 - oil
-- paprika (optional)
-- cayenne pepper (optional)
+
+### optional extra spices
+- paprika
+- cayenne pepper
+- chilli flakes
 
 ## cook
 
@@ -26,7 +29,7 @@
 4. add the chopped tomatoes and stir
 5. add the lentils & vegetable stock and stir
 6. simmer for 5 minutes
-7. Add salt, pepper, paprika & cayenne pepper to your liking.
+7. Add salt, pepper, paprika & any optional spices to taste how you want.
 8. simmer for 5 minutes 
 
 ## serve
