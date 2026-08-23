@@ -41,7 +41,3 @@ At this poiint you can either blend it together or not, depending on your feelin
 - eat now or store in fridge and reheat later, keeps well.
 
 ### enjoy! ^_^
-
----
-
-*recipe thanks to my dad*
