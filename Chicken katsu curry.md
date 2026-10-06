@@ -1,6 +1,6 @@
 # Chicken katsu curry
 
-![White rice, with a chicken breast on top covered in a dark yellow katsu sauce, garnished with some grated carrot and rocket leaves](images/chicken_katsu_curry.jpg)
+![White rice, with a sliced chicken breast covered in a dark yellow katsu sauce, garnished with some grated carrot and rocket leaves](images/chicken_katsu_curry.jpg)
 
 - serves 4
 - 1 hour
@@ -33,7 +33,7 @@
 
 1. put a medium saucepan on medium heat with some cooking oil
 2. add the onion, garlic, 2 teaspoons ginger, and cook gently until softened
-3. add 2 teaspoons tumeric and 2 tablespoons mild curry powder
+3. add 2 teaspoons tumeric and 3 tablespoons mild curry powder
 4. cook the spices in for 5 minutes
 5. add 2 heaped tablespoons of plain flour, and cook for a few more minutes
 6. add 1 stock cube to ~500ml hot water. slowly pour this into the saucepan
@@ -44,7 +44,7 @@ let simmer while you prep and cook the chicken
 
 ## chicken
 
-1. pour some plain flour into the bottom of a bowl
+1. pour some plain flour into a bowl
 2. whisk three eggs in a second bowl
 3. pour some panko breadcrumbs into a third bowl
 4. take each each chicken breast, then coat it in flour
