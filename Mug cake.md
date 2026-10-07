@@ -3,7 +3,7 @@
 ![a mug filled with chocolate cake, with batter dripping down the sides](images/mug_cake.jpg)
 
 - serves 1
-- 20 mins
+- 10 mins
 
 ## ingredients
 
