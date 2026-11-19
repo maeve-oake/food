@@ -1,7 +1,8 @@
 # Chicken milanese
 
 - serves 4
-- 1 hour 30 mins
+- 1 hour total prep
+- ~4 hour cooking time
 
 ## ingredients
 
@@ -17,7 +18,7 @@
 - cooking oil
 - 400g spaghetti
 - milk
-- cheese
+- cheddar cheese
 - butter
 - 4 dried prosciutto slices
 
@@ -28,10 +29,11 @@
 
 ## sauce (start around mid-day)
 
-2. add onions and garlic to the largest sauté pan you have with a splash of oil
+2. add onions and garlic to a large saucepan with a splash of oil
 3. sauté gently until the onion goes translucent (not brown!)
 4. add 2 tins chopped tomatoes and stir into the pan
-5. leave cooking, lid on, with the lowest heat for 3-4 hours
+5. add a pinch of chilli flakes, salt, and pepper
+6. leave simmering, lid on, with the lowest heat for 3-4 hours
 
 ## cheese sauce
 
@@ -65,7 +67,7 @@ wait for the oil to heat up. you can test its ready by throwing in a breadcrumb
 - if it burns, the oil is too hot
 - if it floats and bubbles, the oil is ready!
 
-now is a good time to start boiling water for the pasta, and bake the prosciutto!
+now is a good time to start boiling water for the pasta, and bake the prosciutto until crispy!
 
 3. place each of the chicken breasts into the oil
 4. you should have enough space to fit all of them in - keep an eye on them and flip then over when golden brown
@@ -77,7 +79,7 @@ now is a good time to start boiling water for the pasta, and bake the prosciutto
 
 1. mix the tomato sauce and spaghetti together
 2. serve the chicken breast atop the pasta, with the baked prosciutto atop the chicken
-3. serve the cheese sauce in individual tiny bowls
+3. serve the cheese sauce in individual tiny bowls for pouring
 
 ### enjoy! ^_^
 
