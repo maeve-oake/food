@@ -5,7 +5,7 @@
 
 ## ingredients
 
-- 200g extra-firm tofu
+- 1 block extra-firm tofu
 - 350g twizzly pasta of your choice
 - 1 carrot
 - 2 celery sticks
@@ -52,7 +52,7 @@ make sure you don't crush or crumble the tofu!
 10. add lots of salt and pepper
 11. add 1 tsp of sugar
 
-let simmer while you cook the tofu.
+let simmer for 1015  you cook the tofu.
 
 ## cook tofu
 
