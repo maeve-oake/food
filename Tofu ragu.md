@@ -52,7 +52,7 @@ make sure you don't crush or crumble the tofu!
 10. add lots of salt and pepper
 11. add 1 tsp of sugar
 
-let simmer for 1015  you cook the tofu.
+let simmer for 15 minutes before cooking the tofu
 
 ## cook tofu
 
