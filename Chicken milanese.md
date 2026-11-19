@@ -19,7 +19,7 @@
 - milk
 - cheese
 - butter
-- dried prosciutto
+- 4 dried prosciutto slices
 
 ## prep
 
@@ -43,7 +43,7 @@
 4. ask your girlfriend to slowly add more and more and more milk until you get a white sauce consistency
 5. ask your girlfriend to keep grating cheese and adding more milk to keep it not too thick
 
-make enough cheese sauce to drizzle on top of the pasta and chicken for each portion
+make enough cheese sauce to drizzle on top of the pasta and chicken for each portion. keep warm while you fry the chicken
 
 ## chicken
 
@@ -65,10 +65,22 @@ wait for the oil to heat up. you can test its ready by throwing in a breadcrumb
 - if it burns, the oil is too hot
 - if it floats and bubbles, the oil is ready!
 
-now is a good time to start boiling water for the pasta!
+now is a good time to start boiling water for the pasta, and bake the prosciutto!
 
 3. place each of the chicken breasts into the oil
 4. you should have enough space to fit all of them in - keep an eye on them and flip then over when golden brown
 5. you'll need to cook them more than you think, as you don't want the chicken to be raw in the middle
 6. when they're done, cut the thickest breast in half to check if it's pink in the middle
 7. place each chicken breast on a plate with a paper towl to absorb the excess water
+
+## serve
+
+1. mix the tomato sauce and spaghetti together
+2. serve the chicken breast atop the pasta, with the baked prosciutto atop the chicken
+3. serve the cheese sauce in individual tiny bowls
+
+### enjoy! ^_^
+
+---
+
+*recipe from my mum <3*
